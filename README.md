@@ -20,6 +20,14 @@ Willkommen im offiziellen Feedback-Hub für Zyronia PnP!
     neue Funktion für das Spiel
   </th>
 </tr>
+  <tr>
+  <th>
+    ❔ Frage stellen
+  </th>
+    <th>
+    du hast beim Spielen etwas nicht verstanden
+  </th>
+</tr>
     <tr>
   <th>
     👍 Für bestehende Vorschläge abstimmen
