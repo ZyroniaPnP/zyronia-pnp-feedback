@@ -74,9 +74,9 @@ Willkommen im offiziellen Feedback-Hub für Zyronia PnP!
 
 Status-Labels zeigen dir:
 
-geplant → kommt wahrscheinlich
-in arbeit → wir arbeiten dran
-erledigt → ist drin 🎉
+geplant → kommt wahrscheinlich<br>
+in arbeit → wir arbeiten dran<br>
+erledigt → findet in der nächsten Auflage Anwendung<br>
 intendiert → ist so gewollt (wir sagen dir wieso)
 
 <hr>
