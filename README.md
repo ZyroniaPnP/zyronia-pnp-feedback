@@ -87,10 +87,12 @@ Willkommen im offiziellen Feedback-Hub für Zyronia PnP!
 
 Status-Labels zeigen dir:
 
+unvollständig → gib uns bitte weitere Details zu deinem Beitrag<br>
+duplikat → der Inhalt des Beitrags existiert bereits<br>
 geplant → kommt wahrscheinlich<br>
 in arbeit → wir arbeiten dran<br>
 erledigt → findet in der nächsten Auflage Anwendung<br>
-intendiert → ist so gewollt (wir sagen dir wieso)
+intendiert → ist so gewollt (wir sagen dir wieso)<br>
 
 <hr>
 
