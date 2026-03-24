@@ -59,7 +59,12 @@ Willkommen im offiziellen Feedback-Hub für Zyronia PnP!
     <li>Zum posten beachten:</li>
   <ul>
     <li>🐞 Bug gefunden? → Erstelle ein Issue mit dem Bug-Template</li>
-<li>💡 Coole Idee? → Teile sie mit dem Idee-Template!</li>
+<li>💡 Coole Idee?</li>
+    <ul>
+      <li>Verbesserung für bestehende Inhalte? → Teile sie mit dem Idee-Verbesserung Template!</li>
+      <li>Komplett neuer Vorschlag? → Teile ihn mit dem Idee-Neuheit Template!</li>
+    </ul>
+    <li>❔ Offene Frage? → Die Community und das Team helfen dir gerne weiter</li>
 <li>💬 Andere Meinung? → Nutze die Discussions</li>
   </ul>
   <li>Regeln (kurz & schmerzlos)</li>
